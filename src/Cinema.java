@@ -1,8 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-class NonExistingSeatException extends Exception {}
-
 public class Cinema {
     private final int rows;
     private final int cols;
