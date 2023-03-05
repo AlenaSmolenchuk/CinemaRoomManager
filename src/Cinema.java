@@ -1,8 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-class AlreadyTakenSeatException extends Exception {}
-
 class NonExistingSeatException extends Exception {}
 
 public class Cinema {
