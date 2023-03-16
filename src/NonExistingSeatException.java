@@ -1,2 +1,1 @@
-class NonExistingSeatException extends Exception {
-}
+class NonExistingSeatException extends Exception {}
