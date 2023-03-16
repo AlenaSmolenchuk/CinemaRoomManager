@@ -1,3 +1,2 @@
-
 class AlreadyTakenSeatException extends Exception {
 }
