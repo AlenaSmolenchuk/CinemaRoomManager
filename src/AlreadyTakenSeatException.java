@@ -1,2 +1,1 @@
-class AlreadyTakenSeatException extends Exception {
-}
+class AlreadyTakenSeatException extends Exception {}
