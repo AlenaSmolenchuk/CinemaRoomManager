@@ -21,7 +21,6 @@ public class Cinema {
             Arrays.fill(row, "S");
             seats[i] = row;
         }
-
         return seats;
     }
 
@@ -32,7 +31,6 @@ public class Cinema {
         for (int i = 1; i < topRow.length; i++) {
             topRow[i] = String.valueOf(i);
         }
-
         return String.join(" ", topRow);
     }
 
