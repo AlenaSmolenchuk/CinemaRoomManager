@@ -6,3 +6,4 @@ class Seat {
         this.col = col;
     }
 }
+ 
