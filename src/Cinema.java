@@ -23,7 +23,7 @@ public class Cinema {
         }
         return seats;
     }
-
+ 
     private String getTopRow() {
         String[] topRow = new String[this.cols + 1];
 
