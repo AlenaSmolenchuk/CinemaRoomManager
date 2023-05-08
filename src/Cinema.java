@@ -12,7 +12,7 @@ public class Cinema {
         this.cols = cols;
         seats = createEmptySeats(rows, cols);
     }
-
+ 
     private static String[][] createEmptySeats(int rows, int cols) {
         String[][] seats = new String[rows][];
 
