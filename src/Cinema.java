@@ -8,6 +8,7 @@ public class Cinema {
     private final String[][] seats;
     private int purchased = 0;
     private int currentIncome = 0;
+
     private Cinema(int rows, int cols) {
         this.rows = rows;
         this.cols = cols;
