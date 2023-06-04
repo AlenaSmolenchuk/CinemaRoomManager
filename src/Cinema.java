@@ -2,6 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Cinema {
+
     private final int rows;
     private final int cols;
     private final String[][] seats;
