@@ -1,4 +1,5 @@
-class Seat {
+class Seat { 
+
     int row;
     int col;
     Seat(int row, int col) {
