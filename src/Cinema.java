@@ -34,9 +34,11 @@ public class Cinema {
         String[] topRow = new String[this.cols + 1];
 
         topRow[0] = " ";
+
         for (int i = 1; i < topRow.length; i++) {
             topRow[i] = String.valueOf(i);
         }
+
         return String.join(" ", topRow);
     }
 
