@@ -24,6 +24,7 @@ public class Cinema {
             Arrays.fill(row, "S");
             seats[i] = row;
         }
+
         return seats;
     }
  
