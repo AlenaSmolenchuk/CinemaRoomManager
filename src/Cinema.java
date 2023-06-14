@@ -30,6 +30,7 @@ public class Cinema {
 }
  
     private String getTopRow() {
+
         String[] topRow = new String[this.cols + 1];
 
         topRow[0] = " ";
