@@ -51,6 +51,7 @@ public class Cinema {
     }
 
     private int getPrice(Seat seat) {
+
         int price;
 
         if (totalSeats() <= 60 || isFrontHalf(seat)) {
