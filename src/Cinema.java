@@ -26,7 +26,6 @@ public class Cinema {
         }
 
         return seats;
-    
     }
  
     private String getTopRow() {
