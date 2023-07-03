@@ -6,6 +6,7 @@ public class Cinema {
     private final int rows;
     private final int cols;
     private final String[][] seats;
+
     private int purchased = 0;
     private int currentIncome = 0;
 
