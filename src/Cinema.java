@@ -105,10 +105,12 @@ public class Cinema {
         } catch (AlreadyTakenSeatException e) {
             System.out.println("That ticket has already been purchased!");
             System.out.println();
+
             buySeat();
         } catch (NonExistingSeatException e) {
             System.out.println("Wrong input! ");
             System.out.println();
+
             buySeat();
         }
     }
