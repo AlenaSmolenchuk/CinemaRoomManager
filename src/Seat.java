@@ -1,6 +1,6 @@
 class Seat { 
  
-    int row;
+    private int row;
     int col;
 
     Seat(int row, int col) {
