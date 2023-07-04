@@ -1,5 +1,5 @@
 class Seat { 
-
+ 
     int row;
     int col;
 
