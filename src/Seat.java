@@ -1,7 +1,7 @@
 class Seat { 
  
     private int row;
-    int col;
+    private int col;
 
     Seat(int row, int col) {
         this.row = row;
