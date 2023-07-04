@@ -1,4 +1,4 @@
-class Seat { 
+public class Seat { 
  
     private int row;
     private int col;
