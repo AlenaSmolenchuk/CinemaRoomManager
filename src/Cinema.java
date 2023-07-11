@@ -59,7 +59,6 @@ public class Cinema {
         } else {
             price = 8;
         }
-
         return price;
     }
 
