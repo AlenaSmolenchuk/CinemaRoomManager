@@ -13,6 +13,7 @@ public class Cinema {
     private Cinema(int rows, int cols) {
         this.rows = rows;
         this.cols = cols;
+
         seats = createEmptySeats(rows, cols);
     }
 
