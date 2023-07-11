@@ -18,6 +18,7 @@ public class Cinema {
     }
 
     private static String[][] createEmptySeats(int rows, int cols) {
+        
         String[][] seats = new String[rows][];
 
         for (int i = 0; i < rows; i++) {
