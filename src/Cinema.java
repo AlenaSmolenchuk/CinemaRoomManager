@@ -11,6 +11,7 @@ public class Cinema {
     private int currentIncome = 0;
 
     private Cinema(int rows, int cols) {
+
         this.rows = rows;
         this.cols = cols;
         seats = createEmptySeats(rows, cols);
