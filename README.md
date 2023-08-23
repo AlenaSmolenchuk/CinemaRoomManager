@@ -12,7 +12,7 @@ That's an application that helps manage a cinema theatre: sell tickets, check av
 
 "Show the seats"  - print the current seating arrangement. The empty seats should be marked with an S symbol, and taken seats are marked with a B symbol.
 
-"Buy a ticket"  read the seat coordinates from the input and print the ticket price like in the previous stage. After that, the chosen seat should be marked with a B when the item Show the seats is called.
+"Buy a ticket"  - read the seat coordinates from the input and print the ticket price like in the previous stage. After that, the chosen seat should be marked with a B when the item Show the seats is called.
 
 "Exit" stop the program. 
 
