@@ -14,7 +14,7 @@ That's an application that helps manage a cinema theatre: sell tickets, check av
 
 "Buy a ticket"  - read the seat coordinates from the input and print the ticket price like in the previous stage. After that, the chosen seat should be marked with a B when the item Show the seats is called.
 
-"Exit" stop the program. 
+"Exit" - stop the program. 
 
 When the item "Statistics" is chosen, program  print the following information:
 -The number of purchased tickets;
