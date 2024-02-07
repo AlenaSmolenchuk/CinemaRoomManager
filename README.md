@@ -3,7 +3,7 @@ That's an application that helps manage a cinema theatre: sell tickets, check av
 
    
     
-Menu look like this:   
+Menu look like this:    
    
 1. Show the seats 
 2. Buy a ticket  
