@@ -9,7 +9,7 @@ Menu look like this:
 2. Buy a ticket  
 3. Statistics
 0. Exit  
-   
+    
 
 "Show the seats"  - print the current seating arrangement. The empty seats should be marked with an S symbol, and taken seats are marked with a B symbol.
 
