@@ -6,7 +6,7 @@ That's an application that helps manage a cinema theatre: sell tickets, check av
 Menu look like this:     
    
 1. Show the seats 
-2. Buy a ticket  
+2. Buy a ticket   
 3. Statistics
 0. Exit  
     
