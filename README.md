@@ -11,7 +11,7 @@ Menu look like this:
 "Show the seats"  - print the current seating arrangement. The empty seats should be marked with an S symbol, and taken seats are marked with a B symbol.
 
 "Buy a ticket"  - read the seat coordinates from the input and print the ticket price like in the previous stage. After that, the chosen seat should be marked with a B when the item Show the seats is called.
-
+ 
 "Exit" - stop the program.   
 
 When the item "Statistics" is chosen, program  print the following information:
